@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Gibought</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="email_dress">Email Address</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="ey_email">Enter your Email</string>
+    <string name="ey_password">Enter your Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="version_1_0">version 1.0</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign up</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="have_account">Already registered?</string>
+    <string name="register">Register</string>
+    <string name="terms_of_use">Terms of use</string>
+    <string name="ey_name">Enter your Name</string>
+    <string name="name">Name</string>
+    <string name="ey_password_again">Confirm your Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="next">Next</string>
+    <string name="page_number">1/2</string>
+    <string name="page_number2">2/2</string>
+</resources>
