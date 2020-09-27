@@ -7,4 +7,4 @@
 Um app para um **TCC** de um grupo que possui uma empresa ficcional chamada **KLDV**
 
 ## 🚀Feito com
-- [Java](https://www.java.com/)
+- [Java](https://www.oracle.com/br/java/)
