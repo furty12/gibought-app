@@ -1,0 +1,81 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Gibought</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="email_dress">Email Address</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="ey_email">Enter your Email</string>
+    <string name="ey_password">Enter your Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="version_1_0">version 1.0</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign up</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="have_account">Already registered?</string>
+    <string name="register">Register</string>
+    <string name="terms_of_use">Terms of use</string>
+    <string name="ey_name">Enter your Name</string>
+    <string name="name">Name</string>
+    <string name="ey_password_again">Confirm your Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="next">Next</string>
+    <string name="page_number" tools:ignore="TypographyFractions">1/2</string>
+    <string name="page_number2">2/2</string>
+    <string name="rs">R$</string>
+    <string name="money">00,00</string>
+    <string name="total_balance">total balance</string>
+    <string name="add_earnings">Adicionar Ganhos</string>
+    <string name="add_spd">Adicionar Gastos</string>
+    <string name="pro_version">Pro Version</string>
+    <string name="home">Home</string>
+    <string name="functions">Functions</string>
+    <string name="graphics">Graphics</string>
+    <string name="text_exp">The text that makes the design goods and fit to used in the any concept.</string>
+    <string name="title_card">Odds Live</string>
+    <string name="card_expl">The text that makes the design goods and fit to used in the any concept.</string>
+    <string name="add_btn">+</string>
+    <string name="calendar">Calendary</string>
+    <string name="type_calendar">Month</string>
+    <string name="config">settings</string>
+    <string name="today">Today</string>
+    <string name="clock">14:16</string>
+    <string name="clock_time">PM</string>
+    <string name="last_added">last added</string>
+    <string name="lasted_money">R$ 40</string>
+    <string name="title_vision">Visão Geral:</string>
+    <string name="earnings">Ganhos</string>
+    <string name="spd">Gastos</string>
+    <string name="total_earnings">R$ 00,00</string>
+    <string name="total_spd">R$ 00,00</string>
+    <string name="porc_earnings">30%</string>
+    <string name="porc_spd">70%</string>
+    <string name="username">UserName</string>
+    <string name="email_profile">email_profile</string>
+    <string name="my_profile">My profile</string>
+    <string name="notifications">Notifications</string>
+    <string name="exit">Exit</string>
+    <string name="goal">Goal</string>
+    <string name="language">Language: English</string>
+    <string name="help">help</string>
+    <string name="version_type">Version: Normal</string>
+    <string name="notification_title">Notification</string>
+    <string name="old">Old</string>
+    <string name="none">None</string>
+    <string name="txt_msg_not">Welcome to the gibought app</string>
+
+    <string-array name="calendar_select">
+        <item>Semana</item>
+        <item>Mês</item>
+        <item>Ano</item>
+
+    </string-array>
+</resources>

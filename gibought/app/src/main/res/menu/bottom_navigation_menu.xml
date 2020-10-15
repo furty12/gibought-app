@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/app_home"
+        android:enabled="true"
+        android:icon="@drawable/home"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/app_calendar"
+        android:enabled="true"
+        android:icon="@drawable/calendar"
+        android:title="@string/calendar"
+
+        />
+
+    <item
+        android:id="@+id/app_add"
+        android:title="" />
+
+    <item
+        android:id="@+id/app_graphics"
+        android:icon="@drawable/graphics"
+        android:enabled="true"
+        android:title="@string/graphics"
+        />
+    <item
+        android:id="@+id/app_engine"
+        android:enabled="true"
+        android:icon="@drawable/engine"
+        android:title="@string/config"
+        />
+</menu>
