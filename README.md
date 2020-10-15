@@ -1,8 +1,8 @@
-<h1 align="center">
+﻿<h1 align="center">
 <img src="app\gibought\app\src\main\res\drawable\iconfull.png">
 </h1>
 
-## 🔖Sobre
+## 🔖Sobre:
 
 Um app para um **TCC** de um grupo que possui uma empresa ficcional chamada **KLDV**
 
