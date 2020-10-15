@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-<img src="gibought\app\src\main\res\drawable\lgimg.png">
+<img src="app\src\main\res\drawable\lgimg.png">
 </h1>
 
 ## 🔖Sobre:
